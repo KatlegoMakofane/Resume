@@ -1,3 +1,21 @@
+:root{
+    --white: #f8f8f8;
+    --navy: #1D506F;
+    --pink: #F49FF0;
+    --pinterest:#e60023;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
 body{
-    background-color: red;
+    padding: 0;
+    margin: 0;
 }
