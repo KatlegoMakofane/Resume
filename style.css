@@ -18,4 +18,29 @@ html{
 body{
     padding: 0;
     margin: 0;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100%;
+    line-height: 1.65;
+}
+
+figure {
+    margin:0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+p {
+    margin: 0 0 1rem;
+}
+
+p:last-of-type{
+    margin: 0;
 }
