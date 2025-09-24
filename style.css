@@ -67,7 +67,7 @@ a:active{
     border-bottom: 2px solid var(--pink);
 }
 
-.access-hidden {
+/* .access-hidden {
     clip:rect(0 0 0 0);
     clip-path: inset(50%);
     height: 1px;
@@ -80,4 +80,4 @@ a:active{
 .grid_container{
     display: grid;
     grid-template-columns: 2fr 4fr;
-}
+} */
